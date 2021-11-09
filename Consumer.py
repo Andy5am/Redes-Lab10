@@ -1,3 +1,14 @@
+'''
+            Laboratorio 10
+        Estacion Meteorologica
+
+Creado por:
+
+    Andy Castillo           18040
+    Juan Fernando De Leon   17822
+
+'''
+
 from kafka import KafkaConsumer
 
 import json
